@@ -10,7 +10,7 @@
 
 ## Пример эндпоинтов
 
-- POST /tasks
+- POST /tasks/add
 - GET /tasks
 - GET /tasks/{id}
 - PUT /tasks/{id}
